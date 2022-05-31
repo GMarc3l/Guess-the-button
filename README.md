@@ -1,1 +1,1 @@
-You have to guess the winning button having a chance of 33% to win!
+You have to guess the winning button having a 33% chance to win!
